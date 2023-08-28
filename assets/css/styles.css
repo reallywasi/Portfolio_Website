@@ -29,6 +29,9 @@
   --z-back: -10;
   --z-fixed: 100;
 }
+section{
+  min-height: 100vh;
+}
 
 @media screen and (min-width: 968px) {
   :root {
